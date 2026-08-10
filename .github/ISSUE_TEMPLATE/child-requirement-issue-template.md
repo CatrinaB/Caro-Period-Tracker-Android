@@ -8,5 +8,10 @@ assignees: CatrinaB
 ---
 
 **Parent ID**: 
-**User Story**: As a _\<user\>_, I want to _\<action\>_ so that _\<action\>_.
+
+**User Story**: 
+As a _\<user\>_, 
+I want to _\<action\>_ 
+so that _\<result\>_.
+
 **Acceptance Criteria**:
